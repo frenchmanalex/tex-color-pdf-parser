@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/_empty-project/build/static/css/main.998ea790.chunk.css",
+    "main.js": "/_empty-project/build/static/js/main.f8c5853d.chunk.js",
+    "main.js.map": "/_empty-project/build/static/js/main.f8c5853d.chunk.js.map",
+    "runtime-main.js": "/_empty-project/build/static/js/runtime-main.341264a7.js",
+    "runtime-main.js.map": "/_empty-project/build/static/js/runtime-main.341264a7.js.map",
+    "static/js/2.59ce4b15.chunk.js": "/_empty-project/build/static/js/2.59ce4b15.chunk.js",
+    "static/js/2.59ce4b15.chunk.js.map": "/_empty-project/build/static/js/2.59ce4b15.chunk.js.map",
+    "index.html": "/_empty-project/build/index.html",
+    "precache-manifest.4be5331681427c77df40ac3e959864b4.js": "/_empty-project/build/precache-manifest.4be5331681427c77df40ac3e959864b4.js",
+    "service-worker.js": "/_empty-project/build/service-worker.js",
+    "static/css/main.998ea790.chunk.css.map": "/_empty-project/build/static/css/main.998ea790.chunk.css.map",
+    "static/js/2.59ce4b15.chunk.js.LICENSE.txt": "/_empty-project/build/static/js/2.59ce4b15.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/_empty-project/build/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.341264a7.js",
+    "static/js/2.59ce4b15.chunk.js",
+    "static/css/main.998ea790.chunk.css",
+    "static/js/main.f8c5853d.chunk.js"
+  ]
+}
