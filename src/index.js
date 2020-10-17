@@ -6,7 +6,7 @@ import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <App url="src\compressed.tracemonkey-pldi-09.pdf"/>
   </React.StrictMode>,
   document.getElementById('root')
 );

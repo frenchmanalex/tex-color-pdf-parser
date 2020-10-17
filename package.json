@@ -1,7 +1,8 @@
 {
-  "name": "empty-project",
-  "version": "0.1.0",
+  "name": "tex-color-pdf-parser",
+  "version": "0.1.1",
   "private": true,
+  "homepage": "/tex-color-pdf-parser",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
