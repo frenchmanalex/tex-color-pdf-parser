@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/_empty-project/build/static/css/main.998ea790.chunk.css",
-    "main.js": "/_empty-project/build/static/js/main.f8c5853d.chunk.js",
-    "main.js.map": "/_empty-project/build/static/js/main.f8c5853d.chunk.js.map",
-    "runtime-main.js": "/_empty-project/build/static/js/runtime-main.341264a7.js",
-    "runtime-main.js.map": "/_empty-project/build/static/js/runtime-main.341264a7.js.map",
-    "static/js/2.59ce4b15.chunk.js": "/_empty-project/build/static/js/2.59ce4b15.chunk.js",
-    "static/js/2.59ce4b15.chunk.js.map": "/_empty-project/build/static/js/2.59ce4b15.chunk.js.map",
-    "index.html": "/_empty-project/build/index.html",
-    "precache-manifest.4be5331681427c77df40ac3e959864b4.js": "/_empty-project/build/precache-manifest.4be5331681427c77df40ac3e959864b4.js",
-    "service-worker.js": "/_empty-project/build/service-worker.js",
-    "static/css/main.998ea790.chunk.css.map": "/_empty-project/build/static/css/main.998ea790.chunk.css.map",
-    "static/js/2.59ce4b15.chunk.js.LICENSE.txt": "/_empty-project/build/static/js/2.59ce4b15.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/_empty-project/build/static/media/logo.5d5d9eef.svg"
+    "main.css": "/tex-color-pdf-parser/static/css/main.1dea29a9.chunk.css",
+    "main.js": "/tex-color-pdf-parser/static/js/main.e7e10303.chunk.js",
+    "main.js.map": "/tex-color-pdf-parser/static/js/main.e7e10303.chunk.js.map",
+    "runtime-main.js": "/tex-color-pdf-parser/static/js/runtime-main.5956fe25.js",
+    "runtime-main.js.map": "/tex-color-pdf-parser/static/js/runtime-main.5956fe25.js.map",
+    "static/js/2.cf818773.chunk.js": "/tex-color-pdf-parser/static/js/2.cf818773.chunk.js",
+    "static/js/2.cf818773.chunk.js.map": "/tex-color-pdf-parser/static/js/2.cf818773.chunk.js.map",
+    "index.html": "/tex-color-pdf-parser/index.html",
+    "precache-manifest.af8eadf9f10d1697240568ea11a003c5.js": "/tex-color-pdf-parser/precache-manifest.af8eadf9f10d1697240568ea11a003c5.js",
+    "service-worker.js": "/tex-color-pdf-parser/service-worker.js",
+    "static/css/main.1dea29a9.chunk.css.map": "/tex-color-pdf-parser/static/css/main.1dea29a9.chunk.css.map",
+    "static/js/2.cf818773.chunk.js.LICENSE.txt": "/tex-color-pdf-parser/static/js/2.cf818773.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.341264a7.js",
-    "static/js/2.59ce4b15.chunk.js",
-    "static/css/main.998ea790.chunk.css",
-    "static/js/main.f8c5853d.chunk.js"
+    "static/js/runtime-main.5956fe25.js",
+    "static/js/2.cf818773.chunk.js",
+    "static/css/main.1dea29a9.chunk.css",
+    "static/js/main.e7e10303.chunk.js"
   ]
 }
