@@ -17,3 +17,14 @@ body {
   /* box-shadow: 0 4px 5px 0 rgba(0,0,0,0.14), 0 1px 10px 0 rgba(0,0,0,0.12), 0 2px 4px -1px rgba(0,0,0,0.20); */
   min-height: 30vh;
 }
+.popup {
+  position: fixed;
+  z-index: 2;
+  top: 20vh;
+  height: 80px;
+  text-align: center;
+  background: #eeeeee;
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: 0 4px 5px 0 rgba(0,0,0,0.14), 0 1px 10px 0 rgba(0,0,0,0.12), 0 2px 4px -1px rgba(0,0,0,0.20);
+}

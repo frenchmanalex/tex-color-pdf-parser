@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/tex-color-pdf-parser/precache-manifest.af8eadf9f10d1697240568ea11a003c5.js"
+  "/tex-color-pdf-parser/precache-manifest.cf7385dbb52c8e7e31349b749ecd6451.js"
 );
 
 self.addEventListener('message', (event) => {
