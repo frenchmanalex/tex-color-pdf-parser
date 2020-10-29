@@ -4,9 +4,12 @@ import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 
+let pdfjsLib = window['pdfjs-dist/build/pdf'];
+pdfjsLib.GlobalWorkerOptions.workerSrc = '//cdnjs.cloudflare.com/ajax/libs/pdf.js/2.5.207/pdf.worker.min.js';
+
 ReactDOM.render(
   <React.StrictMode>
-    <App url="src\compressed.tracemonkey-pldi-09.pdf"/>
+    <App pdfjsLib={pdfjsLib}/>
   </React.StrictMode>,
   document.getElementById('root')
 );

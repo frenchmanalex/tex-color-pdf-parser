@@ -22,23 +22,11 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="283d758a-5138-4931-bb73-589211da6085" name="Default Changelist" comment="Initial build subtree commit">
-      <change afterPath="$PROJECT_DIR$/build/precache-manifest.cf7385dbb52c8e7e31349b749ecd6451.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/static/css/main.84776303.chunk.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/static/css/main.84776303.chunk.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/static/js/main.17d51776.chunk.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/static/js/main.17d51776.chunk.js.map" afterDir="false" />
+    <list default="true" id="283d758a-5138-4931-bb73-589211da6085" name="Default Changelist" comment="Minor changes">
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/asset-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/asset-manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/precache-manifest.af8eadf9f10d1697240568ea11a003c5.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/service-worker.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/service-worker.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/css/main.1dea29a9.chunk.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/css/main.1dea29a9.chunk.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/main.e7e10303.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/main.e7e10303.chunk.js.map" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -163,7 +151,8 @@
       <workItem from="1602960910232" duration="15000" />
       <workItem from="1603110291451" duration="1323000" />
       <workItem from="1603549765091" duration="9000" />
-      <workItem from="1603838104689" duration="5113000" />
+      <workItem from="1603838104689" duration="6094000" />
+      <workItem from="1603971752536" duration="5285000" />
     </task>
     <task id="LOCAL-00001" summary="Initial build subtree commit">
       <created>1602951684931</created>
@@ -179,7 +168,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602951847842</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Minor changes">
+      <created>1603843946025</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1603843946025</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -211,7 +207,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial build subtree commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial build subtree commit" />
+    <MESSAGE value="Minor changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Minor changes" />
   </component>
   <component name="WindowStateProjectService">
     <state x="679" y="409" key="#Stylelint" timestamp="1601935697564">
@@ -238,22 +235,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="812" y="418" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602951439070" />
-    <state width="1877" height="254" key="GridCell.Tab.0.bottom" timestamp="1603287606169">
+    <state width="1877" height="254" key="GridCell.Tab.0.bottom" timestamp="1603844881684">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="254" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603287606169" />
-    <state width="1877" height="254" key="GridCell.Tab.0.center" timestamp="1603287606168">
+    <state width="1877" height="254" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603844881684" />
+    <state width="1877" height="254" key="GridCell.Tab.0.center" timestamp="1603844881684">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="254" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603287606168" />
-    <state width="1877" height="254" key="GridCell.Tab.0.left" timestamp="1603287606168">
+    <state width="1877" height="254" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603844881684" />
+    <state width="1877" height="254" key="GridCell.Tab.0.left" timestamp="1603844881684">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="254" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603287606168" />
-    <state width="1877" height="254" key="GridCell.Tab.0.right" timestamp="1603287606168">
+    <state width="1877" height="254" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603844881684" />
+    <state width="1877" height="254" key="GridCell.Tab.0.right" timestamp="1603844881684">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="254" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603287606168" />
+    <state width="1877" height="254" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603844881684" />
     <state x="782" y="240" key="RollbackChangesDialog" timestamp="1601936488325">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -266,10 +263,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="92" y="92" width="1736" height="856" key="ShowDiffWithBranchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602952764865" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1602952285350">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1603843953708">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602952285350" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1603843953708" />
     <state x="719" y="421" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1602952709650">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

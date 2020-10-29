@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/tex-color-pdf-parser/static/css/main.84776303.chunk.css",
-    "main.js": "/tex-color-pdf-parser/static/js/main.17d51776.chunk.js",
-    "main.js.map": "/tex-color-pdf-parser/static/js/main.17d51776.chunk.js.map",
+    "main.js": "/tex-color-pdf-parser/static/js/main.4a94f24e.chunk.js",
+    "main.js.map": "/tex-color-pdf-parser/static/js/main.4a94f24e.chunk.js.map",
     "runtime-main.js": "/tex-color-pdf-parser/static/js/runtime-main.5956fe25.js",
     "runtime-main.js.map": "/tex-color-pdf-parser/static/js/runtime-main.5956fe25.js.map",
     "static/js/2.cf818773.chunk.js": "/tex-color-pdf-parser/static/js/2.cf818773.chunk.js",
     "static/js/2.cf818773.chunk.js.map": "/tex-color-pdf-parser/static/js/2.cf818773.chunk.js.map",
     "index.html": "/tex-color-pdf-parser/index.html",
-    "precache-manifest.cf7385dbb52c8e7e31349b749ecd6451.js": "/tex-color-pdf-parser/precache-manifest.cf7385dbb52c8e7e31349b749ecd6451.js",
+    "precache-manifest.2ee0a48ebb2ff6fdf65dd4cbb1ad2b7a.js": "/tex-color-pdf-parser/precache-manifest.2ee0a48ebb2ff6fdf65dd4cbb1ad2b7a.js",
     "service-worker.js": "/tex-color-pdf-parser/service-worker.js",
     "static/css/main.84776303.chunk.css.map": "/tex-color-pdf-parser/static/css/main.84776303.chunk.css.map",
     "static/js/2.cf818773.chunk.js.LICENSE.txt": "/tex-color-pdf-parser/static/js/2.cf818773.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.5956fe25.js",
     "static/js/2.cf818773.chunk.js",
     "static/css/main.84776303.chunk.css",
-    "static/js/main.17d51776.chunk.js"
+    "static/js/main.4a94f24e.chunk.js"
   ]
 }
