@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3301c9335a490c3a70916690cc3e6868",
+    "revision": "a1efe6818a52bb043954519e91fa950d",
     "url": "/tex-color-pdf-parser/index.html"
   },
   {
-    "revision": "279b9e82a4adbe1c8220",
+    "revision": "fbd9ae78ac4ef7e67d5c",
     "url": "/tex-color-pdf-parser/static/css/main.84776303.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tex-color-pdf-parser/static/js/2.cf818773.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "279b9e82a4adbe1c8220",
-    "url": "/tex-color-pdf-parser/static/js/main.17d51776.chunk.js"
+    "revision": "fbd9ae78ac4ef7e67d5c",
+    "url": "/tex-color-pdf-parser/static/js/main.4a94f24e.chunk.js"
   },
   {
     "revision": "340f720351070cf6c941",
